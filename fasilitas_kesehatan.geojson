@@ -1,0 +1,3911 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-14T03:43:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3955240191",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mulyo Nugroho",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4403476,
+          -6.9583696
+        ]
+      },
+      "id": "node/3955240191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411538367",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Majapahit Ruko Saka Square A",
+        "amenity": "clinic",
+        "name": "Klinik Saka Sasmitra",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4407421,
+          -6.9986426
+        ]
+      },
+      "id": "node/5411538367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411902967",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Prasetya Indah 1",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar Merah",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4419957,
+          -6.9891768
+        ]
+      },
+      "id": "node/5411902967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5421805018",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dr Wahidin 109",
+        "amenity": "clinic",
+        "name": "Klinik Masjid Raya Candi Lama",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4251544,
+          -7.0188697
+        ]
+      },
+      "id": "node/5421805018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5428323866",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kawi I no 68",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posyandu Nusa Indah",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4186353,
+          -7.0107143
+        ]
+      },
+      "id": "node/5428323866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5428350715",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Karangrejo IV",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posyandu Sejahtera",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4143375,
+          -7.0295942
+        ]
+      },
+      "id": "node/5428350715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5428720563",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Gajah Timur I",
+        "amenity": "clinic",
+        "name": "Posyandu Husada Siwi",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4470801,
+          -6.994966
+        ]
+      },
+      "id": "node/5428720563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5428720566",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kanguru Selatan VIII",
+        "amenity": "clinic",
+        "name": "Posyandu Matahari dan Mekarsari",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4519226,
+          -6.996412
+        ]
+      },
+      "id": "node/5428720566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5430545749",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Ligu Utara",
+        "amenity": "clinic",
+        "name": "Posyandu Bahagia",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4328812,
+          -6.9825052
+        ]
+      },
+      "id": "node/5430545749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5430545751",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Karang Kebon Utara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mekarsari",
+        "operator": "Posyandu",
+        "operator:type": "community",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4329436,
+          -6.9799807
+        ]
+      },
+      "id": "node/5430545751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5430892369",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Tirtoyoso 7B",
+        "amenity": "clinic",
+        "name": "Posyandu Lansia Bisma",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4404832,
+          -6.9795387
+        ]
+      },
+      "id": "node/5430892369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5430983478",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Pandanaran No 79",
+        "amenity": "clinic",
+        "name": "Puskesmas Pandanaran",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4146663,
+          -6.9869932
+        ]
+      },
+      "id": "node/5430983478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438917037",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Anjasmoro Raya No.38 -A /7",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Rahb Indosehat",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3907256,
+          -6.9780312
+        ]
+      },
+      "id": "node/5438917037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438991689",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Jendral Sudirman",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Nayaka Husada",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3945357,
+          -6.9814696
+        ]
+      },
+      "id": "node/5438991689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5438991692",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Melati III",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3901063,
+          -6.9799847
+        ]
+      },
+      "id": "node/5438991692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442371669",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Watulawang Timur",
+        "amenity": "clinic",
+        "name": "Posyandu Mekar Sari",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4039931,
+          -7.0113678
+        ]
+      },
+      "id": "node/5442371669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442629435",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Tengger II",
+        "amenity": "clinic",
+        "name": "Posyandu RW VII",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4157989,
+          -7.0191978
+        ]
+      },
+      "id": "node/5442629435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442629438",
+        "addr:city": "Semarang",
+        "addr:full": "Kampung Kalilangse",
+        "amenity": "clinic",
+        "name": "Posyandu Melati RW IV",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4138476,
+          -7.0112067
+        ]
+      },
+      "id": "node/5442629438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442652670",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Genuk Karanglo",
+        "amenity": "clinic",
+        "name": "Posyandu Cempaka",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4206959,
+          -7.0028602
+        ]
+      },
+      "id": "node/5442652670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444700485",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Tambak Dalam Raya No. 55",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mardi Saras",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4457377,
+          -6.9728136
+        ]
+      },
+      "id": "node/5444700485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444755007",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Sawah Besar IX",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Al-Maghfiroh",
+        "operator": "Posyandu",
+        "operator:type": "community",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4464382,
+          -6.9633843
+        ]
+      },
+      "id": "node/5444755007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5460901213",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dr Sutomo No 4",
+        "amenity": "clinic",
+        "name": "Klinik Pratama Yayasan Sosial Soegijapranata",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4097841,
+          -6.9860395
+        ]
+      },
+      "id": "node/5460901213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5461683958",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Brigjen Katamso",
+        "amenity": "clinic",
+        "name": "Klinik Bangkong",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4327035,
+          -6.9947557
+        ]
+      },
+      "id": "node/5461683958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5461683959",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan MT. Haryono No.906",
+        "amenity": "clinic",
+        "name": "Klinik Pratama Panti Husodo",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4324245,
+          -6.9986785
+        ]
+      },
+      "id": "node/5461683959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5465906265",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Slamet Riyadi No.4",
+        "amenity": "clinic",
+        "name": "Posyandu Aji Kencana",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4487653,
+          -7.0003113
+        ]
+      },
+      "id": "node/5465906265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5466535898",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kendeng IV",
+        "amenity": "clinic",
+        "name": "Posyandu Kenanga",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3955951,
+          -7.0158955
+        ]
+      },
+      "id": "node/5466535898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5474465692",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Cempaka",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4425593,
+          -6.9941434
+        ]
+      },
+      "id": "node/5474465692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475150781",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Margorejo Barat",
+        "amenity": "clinic",
+        "name": "Posyandu Tunas Bhakti",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4327498,
+          -6.9540425
+        ]
+      },
+      "id": "node/5475150781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475150782",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Margorejo Timur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.437105,
+          -6.9537756
+        ]
+      },
+      "id": "node/5475150782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5475150786",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Purnasari Raya",
+        "amenity": "clinic",
+        "name": "Posyandu Bhakti Abadi",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4373543,
+          -6.9602868
+        ]
+      },
+      "id": "node/5475150786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5479443034",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Menoreh Tengah II",
+        "amenity": "clinic",
+        "name": "Posyandu Apsari",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3891934,
+          -7.0115289
+        ]
+      },
+      "id": "node/5479443034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5479883572",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Menoreh Utara IV",
+        "amenity": "clinic",
+        "name": "Posyandu Anggraeni",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3911292,
+          -7.0093329
+        ]
+      },
+      "id": "node/5479883572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5479883575",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Flamboyan",
+        "amenity": "clinic",
+        "name": "Posyandu Puspitasari",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3944894,
+          -7.0103359
+        ]
+      },
+      "id": "node/5479883575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5481721542",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Ronggowarsito No 106",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Tunas Harapan RW XI",
+        "operator": "Posyandu",
+        "operator:type": "government",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4300153,
+          -6.9572272
+        ]
+      },
+      "id": "node/5481721542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5481778594",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kinibalu Barat",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Sekartanjung",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4434182,
+          -7.0117073
+        ]
+      },
+      "id": "node/5481778594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5481893429",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kebonharjo Raya",
+        "amenity": "clinic",
+        "name": "Posyandu Warga Sejahtera RW VII",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.426513,
+          -6.9585345
+        ]
+      },
+      "id": "node/5481893429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5481949597",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Bedagan 462",
+        "amenity": "clinic",
+        "name": "Posyandu Tunas Harapan II",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4142546,
+          -6.9803015
+        ]
+      },
+      "id": "node/5481949597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5482343902",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Jomblang Sari",
+        "amenity": "clinic",
+        "name": "Posyandu Mardirahayu",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4346917,
+          -7.0101599
+        ]
+      },
+      "id": "node/5482343902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5482343903",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Tanah Putih IV",
+        "amenity": "clinic",
+        "name": "Posyandu Tunas Kasih",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4321603,
+          -7.0127072
+        ]
+      },
+      "id": "node/5482343903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504564833",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dewi Sartika I",
+        "amenity": "clinic",
+        "name": "Klinik Pratama",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.388728,
+          -7.0199335
+        ]
+      },
+      "id": "node/5504564833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504564835",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dewi Sartika I",
+        "amenity": "clinic",
+        "name": "Klinik Aulia Fawwaz",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.388679,
+          -7.0198384
+        ]
+      },
+      "id": "node/5504564835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504786857",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Abdul Rahman Saleh No. 150",
+        "amenity": "clinic",
+        "name": "Klinik Mardi Mulya VI",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3801886,
+          -6.996397
+        ]
+      },
+      "id": "node/5504786857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504786860",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Taman Sri Rejeki RT 07 RW 02",
+        "amenity": "clinic",
+        "name": "Posyandu Balita dan Lansia Melati II",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3831892,
+          -6.991389
+        ]
+      },
+      "id": "node/5504786860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5507379246",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Alamanda Blok B",
+        "amenity": "clinic",
+        "name": "Posyandu Bukit Bunga",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.442617,
+          -7.043828
+        ]
+      },
+      "id": "node/5507379246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5509908158",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Singa III",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mutiara RW VI",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4556941,
+          -7.0037261
+        ]
+      },
+      "id": "node/5509908158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5510170571",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Jembawan Raya No. 8-12",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Warga Utama",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3770638,
+          -6.9850011
+        ]
+      },
+      "id": "node/5510170571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5513370359",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Dahlia dan Posyandu Lansia Sedap Malam",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4578083,
+          -7.005728
+        ]
+      },
+      "id": "node/5513370359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5526809850",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Balita Ku Sayang",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.442059,
+          -7.0202487
+        ]
+      },
+      "id": "node/5526809850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5527100829",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Watugunung I",
+        "amenity": "clinic",
+        "name": "Posyandu Model Nusa Indah",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3692967,
+          -6.9817731
+        ]
+      },
+      "id": "node/5527100829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5530557729",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Cipta Karya",
+        "amenity": "clinic",
+        "name": "Posyandu Sedap Malam RW 03",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4307508,
+          -6.991774
+        ]
+      },
+      "id": "node/5530557729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5531799100",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Stadion Selatan No. 1",
+        "amenity": "clinic",
+        "name": "Klinik Pratama",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4307079,
+          -6.9910366
+        ]
+      },
+      "id": "node/5531799100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532686024",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar 1",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3832436,
+          -7.0656725
+        ]
+      },
+      "id": "node/5532686024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532686026",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kalisegoro Raya RT 06 RW 3",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar 3",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.384812,
+          -7.0593832
+        ]
+      },
+      "id": "node/5532686026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532686027",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Mintarsih Barat II",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar 2",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3800249,
+          -7.063032
+        ]
+      },
+      "id": "node/5532686027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532686028",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Perumahan Sekargading RT 07 RW 03",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar 6",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3908788,
+          -7.0602637
+        ]
+      },
+      "id": "node/5532686028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532686029",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Ampel Gading Timur II",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar 4",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3895092,
+          -7.0610729
+        ]
+      },
+      "id": "node/5532686029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532686030",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Perumahan Sekargading RT 05 RW 03",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar 7",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3912687,
+          -7.0615626
+        ]
+      },
+      "id": "node/5532686030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5532686031",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Sekar Gading Barat",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar 8",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3882003,
+          -7.056899
+        ]
+      },
+      "id": "node/5532686031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5533229126",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan purwomukti dalam II",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mardi Rahayu",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4789877,
+          -7.011453
+        ]
+      },
+      "id": "node/5533229126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5539211960",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Cempaka",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4452287,
+          -7.0659774
+        ]
+      },
+      "id": "node/5539211960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5544375066",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.473226,
+          -6.9777932
+        ]
+      },
+      "id": "node/5544375066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5544794001",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Widuri II",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar V",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4718778,
+          -6.9713294
+        ]
+      },
+      "id": "node/5544794001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5547006382",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Muntal",
+        "amenity": "clinic",
+        "name": "Posyandu Model Puji Lestari",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3805614,
+          -7.0766179
+        ]
+      },
+      "id": "node/5547006382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5547734594",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Abimanyu VI",
+        "amenity": "clinic",
+        "name": "Posyandu Melati I",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4115,
+          -6.9756158
+        ]
+      },
+      "id": "node/5547734594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5547760089",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Putra Sehat",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3774369,
+          -7.0004842
+        ]
+      },
+      "id": "node/5547760089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5549775929",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Sadewa Utara No. 9A",
+        "amenity": "clinic",
+        "name": "Posyandu Melati IV",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4091135,
+          -6.9779486
+        ]
+      },
+      "id": "node/5549775929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5549775960",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Esthetic Dental Clinic",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.403674,
+          -6.9798043
+        ]
+      },
+      "id": "node/5549775960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5552103603",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Tlogo Wangi",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Soka Indah",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4640746,
+          -7.0008682
+        ]
+      },
+      "id": "node/5552103603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5558799787",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Pagersalam RT.03 RW.02",
+        "amenity": "clinic",
+        "name": "Posyandu Asoka",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3797138,
+          -7.09239
+        ]
+      },
+      "id": "node/5558799787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5558888895",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Durian",
+        "amenity": "clinic",
+        "name": "Posyandu Harapan 1",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3869168,
+          -7.0757928
+        ]
+      },
+      "id": "node/5558888895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5560914347",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Perumahan Sekargading RT 04 RW 3",
+        "amenity": "clinic",
+        "name": "Posyandu Mawar 5",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3920526,
+          -7.0598647
+        ]
+      },
+      "id": "node/5560914347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566012726",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu RW V",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3999826,
+          -6.9970373
+        ]
+      },
+      "id": "node/5566012726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566151737",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Cahaya Mandiri",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4900766,
+          -6.9549481
+        ]
+      },
+      "id": "node/5566151737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566155300",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Srinindito I",
+        "amenity": "clinic",
+        "name": "Posyandu Lestari RW I",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3912426,
+          -6.9992056
+        ]
+      },
+      "id": "node/5566155300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566369768",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Taman Karonsih II",
+        "amenity": "clinic",
+        "name": "Posyandu Bina Putra",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3538023,
+          -6.9975258
+        ]
+      },
+      "id": "node/5566369768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566388756",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kawung III",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu RW XIV",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4650429,
+          -6.9820966
+        ]
+      },
+      "id": "node/5566388756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566398334",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Jambu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Jambu",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.338385,
+          -7.0200583
+        ]
+      },
+      "id": "node/5566398334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566407084",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Cemara V",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Dahlia",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3047843,
+          -7.0720303
+        ]
+      },
+      "id": "node/5566407084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566407088",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Jatisari",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Dahlia 2",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3099954,
+          -7.0663568
+        ]
+      },
+      "id": "node/5566407088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5572520546",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Bledak Kantil V",
+        "amenity": "clinic",
+        "name": "Posyandu Lansia Wijaya Kusuma",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4555137,
+          -6.983439
+        ]
+      },
+      "id": "node/5572520546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5572541485",
+        "addr:city": "Semarang",
+        "addr:full": "Meteseh",
+        "amenity": "clinic",
+        "name": "Posyandu Anggrek",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4657483,
+          -7.0669928
+        ]
+      },
+      "id": "node/5572541485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5572541486",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Nanas Raya",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mawar",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4610276,
+          -7.0721887
+        ]
+      },
+      "id": "node/5572541486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5572603179",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kumpul Sari Raya",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Dahlia II",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4631714,
+          -7.0544192
+        ]
+      },
+      "id": "node/5572603179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5573245819",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Gondang Barat II",
+        "amenity": "clinic",
+        "name": "Posyandu Kenanga",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4403853,
+          -7.0634792
+        ]
+      },
+      "id": "node/5573245819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5574986069",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Sekar Melati",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4645571,
+          -7.0614286
+        ]
+      },
+      "id": "node/5574986069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5574986073",
+        "addr:city": "Semarang",
+        "addr:full": "Meteseh",
+        "amenity": "clinic",
+        "ground_floor:height": "0.18",
+        "healthcare": "clinic",
+        "name": "Posyandu Delima",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.462756,
+          -7.0620987
+        ]
+      },
+      "id": "node/5574986073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5575035149",
+        "addr:city": "Semarang",
+        "addr:full": "Puri Dinar Elok",
+        "amenity": "clinic",
+        "name": "Posyandu Wijaya Kusuma",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4698869,
+          -7.0584359
+        ]
+      },
+      "id": "node/5575035149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5575126741",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Kenanga",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4642496,
+          -7.0548042
+        ]
+      },
+      "id": "node/5575126741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5578094673",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Mulawarman Utara Dalam I",
+        "amenity": "clinic",
+        "name": "Posyandu Balita Cempaka",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4391984,
+          -7.0666261
+        ]
+      },
+      "id": "node/5578094673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5581620933",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Taman Siswa",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "PUSLAKES UNNES",
+        "operator": "PUSLAKES UNNES",
+        "operator:type": "university",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.394081,
+          -7.0484812
+        ]
+      },
+      "id": "node/5581620933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5581831774",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Jatimas III",
+        "amenity": "clinic",
+        "name": "Posyandu Anggur",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4955014,
+          -6.9692587
+        ]
+      },
+      "id": "node/5581831774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5581831780",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Bringin V",
+        "amenity": "clinic",
+        "name": "Posyandu Manggis",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4903388,
+          -6.9640856
+        ]
+      },
+      "id": "node/5581831780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5581831782",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Karangroto Barat 5",
+        "amenity": "clinic",
+        "name": "Posyandu Belimbing",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4917409,
+          -6.9649782
+        ]
+      },
+      "id": "node/5581831782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5582053538",
+        "addr:city": "Semarang",
+        "addr:full": "Ngemplak",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Puspita Sari",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4487612,
+          -7.0161663
+        ]
+      },
+      "id": "node/5582053538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5582053543",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Depoksari Raya",
+        "amenity": "clinic",
+        "name": "Posyandu Sari Asih",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4526424,
+          -7.0187466
+        ]
+      },
+      "id": "node/5582053543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5582131345",
+        "addr:city": "Semarang",
+        "addr:full": "Gang Kantil",
+        "amenity": "clinic",
+        "name": "Posyandu Dahlia",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3940994,
+          -7.0944367
+        ]
+      },
+      "id": "node/5582131345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5582145528",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Prof Dr Hamka No. 11 B",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pratama Surya Medika",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3590071,
+          -6.9884994
+        ]
+      },
+      "id": "node/5582145528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5582160580",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Jeten",
+        "amenity": "clinic",
+        "name": "Posyandu Dahlia RW II",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.399607,
+          -7.0665483
+        ]
+      },
+      "id": "node/5582160580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5582194759",
+        "addr:city": "Semarang",
+        "addr:full": "Gang Mawar II",
+        "amenity": "clinic",
+        "name": "Posyandu Flamboyan",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3929639,
+          -7.1054068
+        ]
+      },
+      "id": "node/5582194759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5591460119",
+        "addr:city": "Semarang",
+        "addr:full": "Perumahan Polri Durenan Indah Mangunharjo",
+        "amenity": "clinic",
+        "name": "Posyandu Harapan Sejahtera",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4681167,
+          -7.0483157
+        ]
+      },
+      "id": "node/5591460119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5591890195",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Selokaton",
+        "amenity": "clinic",
+        "name": "Klinik Pratama",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3790767,
+          -7.0894887
+        ]
+      },
+      "id": "node/5591890195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5593905052",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kenanga Raya",
+        "amenity": "clinic",
+        "name": "Posyandu RW II",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4276623,
+          -7.0872203
+        ]
+      },
+      "id": "node/5593905052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5595867742",
+        "addr:city": "Semarang",
+        "addr:full": "RW X Kelurahan Sendangguwo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mekar Sari",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.455853,
+          -7.0132433
+        ]
+      },
+      "id": "node/5595867742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5595973096",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kapri Raya",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Teratai",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4524781,
+          -7.0136107
+        ]
+      },
+      "id": "node/5595973096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5595973097",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Sawi",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Delima",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4484279,
+          -7.0109059
+        ]
+      },
+      "id": "node/5595973097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5595973100",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Sawi",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Lestari",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4501016,
+          -7.0112267
+        ]
+      },
+      "id": "node/5595973100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5596021346",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Prof. Dr. Hamka 100A",
+        "addr:housenumber": "100",
+        "addr:postcode": "50185",
+        "addr:street": "Jalan Profesor Dokter Hamka",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mutiara Bunda",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3507285,
+          -6.9933194
+        ]
+      },
+      "id": "node/5596021346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604673198",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Perumahan Graha Mulia Sari",
+        "amenity": "clinic",
+        "name": "Posyandu Asri",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.474035,
+          -7.0536229
+        ]
+      },
+      "id": "node/5604673198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604673203",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Klipang Raya",
+        "amenity": "clinic",
+        "name": "Posyandu Melati",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4753466,
+          -7.0521449
+        ]
+      },
+      "id": "node/5604673203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5606494992",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Bukit Palem Raja III",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mutiara Sehat",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4560635,
+          -7.0656532
+        ]
+      },
+      "id": "node/5606494992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610783029",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Kusuma Bunda",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4714071,
+          -7.0370216
+        ]
+      },
+      "id": "node/5610783029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610783030",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mekar Sari",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4670951,
+          -7.0275108
+        ]
+      },
+      "id": "node/5610783030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610783038",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Balita Kuncup Mekar",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4702209,
+          -7.0293303
+        ]
+      },
+      "id": "node/5610783038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610971351",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kyai Sabrang I",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Lestari 3",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3722887,
+          -7.0896268
+        ]
+      },
+      "id": "node/5610971351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610971390",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Wonosari",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Lestari 2",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3677236,
+          -7.0846655
+        ]
+      },
+      "id": "node/5610971390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610971849",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Sikunir",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Lestari 5",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.364424,
+          -7.0855761
+        ]
+      },
+      "id": "node/5610971849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610971882",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Jongkong",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Lestari 6",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3726406,
+          -7.1038948
+        ]
+      },
+      "id": "node/5610971882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5610972102",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Terwidi",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Lestari 4",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3701316,
+          -7.1019453
+        ]
+      },
+      "id": "node/5610972102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611248851",
+        "addr:city": "Semarang",
+        "addr:full": "Tambakaji RW III",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Walisongo",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3558046,
+          -6.9879403
+        ]
+      },
+      "id": "node/5611248851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611248985",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Puncak Sari",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mekar Sari",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3471759,
+          -6.9871869
+        ]
+      },
+      "id": "node/5611248985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611249278",
+        "addr:city": "Semarang",
+        "addr:full": "UIN Walisongo Kampus I",
+        "addr:housenumber": "03",
+        "addr:postcode": "50185",
+        "addr:street": "Jalan Walisongo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "Klinik Universitas Islam Negeri Walisongo Kampus I",
+        "operator": "goverment",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3593719,
+          -6.9876874
+        ]
+      },
+      "id": "node/5611249278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611249357",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Segaran II",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Segarini I",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.357599,
+          -6.9879097
+        ]
+      },
+      "id": "node/5611249357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351472",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Mr Soebagiyono",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Sakura",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3582883,
+          -7.0909913
+        ]
+      },
+      "id": "node/5611351472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351474",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Ngabean Raya",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mawar",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3618509,
+          -7.0889245
+        ]
+      },
+      "id": "node/5611351474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351476",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Pandean",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Ceplok Piring",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3534965,
+          -7.0900131
+        ]
+      },
+      "id": "node/5611351476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351477",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Nglarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Flamboyan",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3522681,
+          -7.0926814
+        ]
+      },
+      "id": "node/5611351477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351479",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Malon",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Anggrek",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3602322,
+          -7.1020006
+        ]
+      },
+      "id": "node/5611351479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351481",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Siroto",
+        "amenity": "clinic",
+        "name": "Posyandu Matahari",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3558904,
+          -7.1001401
+        ]
+      },
+      "id": "node/5611351481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351484",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Jetis",
+        "amenity": "clinic",
+        "name": "Posyandu Kenanga",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3492291,
+          -7.0918763
+        ]
+      },
+      "id": "node/5611351484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351489",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kolonel RW Soegiarto",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Cempaka",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3603596,
+          -7.0796197
+        ]
+      },
+      "id": "node/5611351489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611351490",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Jagalan",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Melati",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3625912,
+          -7.0872057
+        ]
+      },
+      "id": "node/5611351490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5616438960",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kampung Pentul Gang III",
+        "amenity": "clinic",
+        "name": "Posyandu Mugi Rahayu",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4091892,
+          -7.0308983
+        ]
+      },
+      "id": "node/5616438960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5616829267",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Dahlia",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4099262,
+          -7.0738044
+        ]
+      },
+      "id": "node/5616829267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5617161758",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Duta Raya 2A",
+        "amenity": "clinic",
+        "name": "Klinik Syariah Ar-Ridho",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4196398,
+          -7.0758899
+        ]
+      },
+      "id": "node/5617161758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5618887967",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Balita Sehat",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4759689,
+          -7.0503414
+        ]
+      },
+      "id": "node/5618887967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5618887970",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Bukit Anyelir 6",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Wijaya Kusuma",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4725557,
+          -7.0456723
+        ]
+      },
+      "id": "node/5618887970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5623648352",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Kartika Paksi",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.428709,
+          -7.0325165
+        ]
+      },
+      "id": "node/5623648352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5623648353",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Jangli Perbalan",
+        "amenity": "clinic",
+        "name": "Posyandu Trisari",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4260476,
+          -7.0336122
+        ]
+      },
+      "id": "node/5623648353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5626026156",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Kuwasen Rejo",
+        "amenity": "clinic",
+        "name": "Posyandu",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.362615,
+          -7.0480582
+        ]
+      },
+      "id": "node/5626026156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5626041632",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Taman Sidodrajat",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Drajad Indah Balita II",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4634523,
+          -6.9763186
+        ]
+      },
+      "id": "node/5626041632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5626041633",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Suryokusumo RW 2",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4659066,
+          -6.9771659
+        ]
+      },
+      "id": "node/5626041633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5626143777",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Karanganyar",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Mekar Mawar",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4546145,
+          -6.9673045
+        ]
+      },
+      "id": "node/5626143777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5626186353",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Getas IV",
+        "amenity": "clinic",
+        "capacity:persons": "<50",
+        "name": "Posyandu Kenanga",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35881,
+          -7.0645013
+        ]
+      },
+      "id": "node/5626186353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5626186359",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Nongkosawit Utama",
+        "amenity": "clinic",
+        "name": "Posyandu",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3655159,
+          -7.0667935
+        ]
+      },
+      "id": "node/5626186359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5626186360",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Randusari",
+        "amenity": "clinic",
+        "name": "Posyandu Puspitasari",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3692022,
+          -7.0673415
+        ]
+      },
+      "id": "node/5626186360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631560491",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "ground_floor:height": "1",
+        "name": "Posyandu Aman Makmur",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.306704,
+          -6.9690856
+        ]
+      },
+      "id": "node/5631560491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631568801",
+        "addr:city": "Semarang",
+        "addr:full": "Mangkang Wetan 6B",
+        "amenity": "clinic",
+        "ground_floor:height": "0.05",
+        "healthcare": "clinic",
+        "name": "Posyandu Mekar Sari - 6B",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3153676,
+          -6.9551877
+        ]
+      },
+      "id": "node/5631568801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631568802",
+        "addr:city": "Semarang",
+        "addr:full": "Mangkang Wetan 6A",
+        "amenity": "clinic",
+        "ground_floor:height": "0.3",
+        "healthcare": "clinic",
+        "name": "Posyandu Mekar Sari - 6A",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3154226,
+          -6.955233
+        ]
+      },
+      "id": "node/5631568802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631568821",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Laut Mangunharjo",
+        "amenity": "clinic",
+        "ground_floor:height": "0.25",
+        "healthcare": "clinic",
+        "name": "Posyandu Bina Sehat",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3125888,
+          -6.9580685
+        ]
+      },
+      "id": "node/5631568821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631568845",
+        "addr:city": "Semarang",
+        "addr:full": "Mangkang Wetan 7A",
+        "amenity": "clinic",
+        "ground_floor:height": "0.4",
+        "healthcare": "clinic",
+        "name": "Posyandu Kuncup Mekar",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3169876,
+          -6.9546193
+        ]
+      },
+      "id": "node/5631568845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631687873",
+        "addr:city": "Semarang",
+        "addr:full": "Komplek Bumi Wanamukti",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Wana Asri Bumi Asri",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4648203,
+          -7.0290575
+        ]
+      },
+      "id": "node/5631687873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634475003",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Kandri Asri",
+        "amenity": "clinic",
+        "name": "Posyandu",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3586719,
+          -7.0458315
+        ]
+      },
+      "id": "node/5634475003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634475013",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Siwarak",
+        "amenity": "clinic",
+        "name": "Posyandu",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3535277,
+          -7.0474945
+        ]
+      },
+      "id": "node/5634475013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634493710",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Sukorame",
+        "amenity": "clinic",
+        "name": "Posyandu Sukorame",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3526208,
+          -7.0807955
+        ]
+      },
+      "id": "node/5634493710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636768841",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Tinjomoyo Barat RW VIII",
+        "amenity": "clinic",
+        "name": "Posyandu Anggrek",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4027687,
+          -7.0351269
+        ]
+      },
+      "id": "node/5636768841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5639235183",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Perumahan Semawis",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Mahisi Mulya",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4630151,
+          -7.0221201
+        ]
+      },
+      "id": "node/5639235183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641358603",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Asrama Ex Brigif 5",
+        "amenity": "clinic",
+        "name": "Posyandu Wijaya Kusuma",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4106403,
+          -7.0731063
+        ]
+      },
+      "id": "node/5641358603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647034699",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Anggrek",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4712898,
+          -7.0212463
+        ]
+      },
+      "id": "node/5647034699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5650851886",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Arumanis Timur No. 10",
+        "addr:postcode": "50185",
+        "addr:street": "Jalan Arumanis Tengah",
+        "amenity": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "Posyandu Arumanis",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3548457,
+          -6.9847549
+        ]
+      },
+      "id": "node/5650851886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5650851917",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Tugu Lapangan Gang 16 no.30",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Melati III",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3503671,
+          -6.9889693
+        ]
+      },
+      "id": "node/5650851917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5663178797",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Banjaran",
+        "amenity": "clinic",
+        "ground_floor:height": "0.05",
+        "name": "Posyandu Mawar",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.325967,
+          -7.0083816
+        ]
+      },
+      "id": "node/5663178797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5663481874",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Gemahsari VI",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Kemuning",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4657403,
+          -7.0213322
+        ]
+      },
+      "id": "node/5663481874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665470331",
+        "addr:city": "Semarang",
+        "addr:full": "Perum Taman Bukit Asri",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Asri Mandiri",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4624867,
+          -7.0418551
+        ]
+      },
+      "id": "node/5665470331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665744200",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Nusa Indah IX",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4668178,
+          -7.0779015
+        ]
+      },
+      "id": "node/5665744200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668331658",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Dukuh Langen Sari",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Bougenville",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3010902,
+          -7.0458108
+        ]
+      },
+      "id": "node/5668331658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668331659",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Wonolopo Raya No.73",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "RSI Pelayanan Medik Dasar KH Ahmad Dahlan Cabang RS Roemani",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3089571,
+          -7.0561537
+        ]
+      },
+      "id": "node/5668331659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668652203",
+        "addr:city": "Semarang",
+        "amenity": "clinic",
+        "name": "Posyandu Mekarsari",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4251504,
+          -7.0700526
+        ]
+      },
+      "id": "node/5668652203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671115049",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Grafika Raya",
+        "amenity": "clinic",
+        "name": "Klinik Pratama Buana Lefada",
+        "operator:type": "private",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4216803,
+          -7.0787733
+        ]
+      },
+      "id": "node/5671115049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5672753942",
+        "addr:city": "Semarang",
+        "addr:full": "Kampung Ringintelu",
+        "amenity": "clinic",
+        "name": "Posyandu Tugu Kencana I",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3854946,
+          -7.0160406
+        ]
+      },
+      "id": "node/5672753942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5674062462",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Klentengsari No.3",
+        "amenity": "clinic",
+        "name": "Posyandu Balita Ria",
+        "operator:type": "community",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4231266,
+          -7.0590911
+        ]
+      },
+      "id": "node/5674062462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5674435537",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Wonosari RT 08/RW 01, Ngaliyan",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Tunas Harapan II",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2916414,
+          -6.9730499
+        ]
+      },
+      "id": "node/5674435537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5674590276",
+        "addr:city": "Semarang",
+        "addr:full": "RW 07 Kelurahan Wonosari, Ngaliyan",
+        "amenity": "clinic",
+        "name": "Posyandu Candi Indah",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3075194,
+          -6.9751013
+        ]
+      },
+      "id": "node/5674590276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5674683659",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Bukit Beringin Elok",
+        "amenity": "clinic",
+        "name": "Posyandu Bina Sehat",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3268528,
+          -6.9902831
+        ]
+      },
+      "id": "node/5674683659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5675441072",
+        "addr:city": "Semarang",
+        "addr:full": "RW 05 Kelurahan Kalipancur, Ngaliyan",
+        "amenity": "clinic",
+        "name": "Posyandu Taman Ceria",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3724691,
+          -7.0109792
+        ]
+      },
+      "id": "node/5675441072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5703703339",
+        "access:roof": "no",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Klipang Pesona Asri Regency",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posyandu Tunas Bangsa",
+        "operator": "Posyandu",
+        "operator:type": "private",
+        "operator:wikidata": "Q12506263",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4733803,
+          -7.0361325
+        ]
+      },
+      "id": "node/5703703339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5716438454",
+        "addr:city": "Semarang",
+        "addr:full": "RW 10 Kelurahan Wonosari",
+        "amenity": "clinic",
+        "name": "Posyandu Melati",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3288698,
+          -6.9788751
+        ]
+      },
+      "id": "node/5716438454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5716438455",
+        "addr:city": "Semarang",
+        "addr:full": "Jalan Beringin Asri Tengah I",
+        "amenity": "clinic",
+        "name": "Posyandu Melati Asri I",
+        "operator:type": "government",
+        "source": "HOT_InAWARESurvey_2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3245025,
+          -6.983256
+        ]
+      },
+      "id": "node/5716438455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765815790",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr Taufik Kresna & Dr Adi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4717268,
+          -7.0363611
+        ]
+      },
+      "id": "node/9765815790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765815792",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "Drg Windarti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.46927,
+          -7.0356999
+        ]
+      },
+      "id": "node/9765815792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9780724383",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Klinik Pratama Karyosih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4595154,
+          -7.0315545
+        ]
+      },
+      "id": "node/9780724383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9787205987",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Primaya Hospital Semarang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4614668,
+          -7.0234139
+        ]
+      },
+      "id": "node/9787205987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9789343284",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rumah Sakit Gigi dan Mulut UNIMUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4665364,
+          -7.0250548
+        ]
+      },
+      "id": "node/9789343284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9822261131",
+        "amenity": "clinic",
+        "healthcare": "laboratory",
+        "name": "Laboratorium Klinik Pramita Semarang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4207556,
+          -6.9856032
+        ]
+      },
+      "id": "node/9822261131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9833047845",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Bidan Hj Sri Kustinah Amd Keb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3518711,
+          -6.993444
+        ]
+      },
+      "id": "node/9833047845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10968096911",
+        "addr:city": "Semarang",
+        "addr:postcode": "50112",
+        "addr:street": "Jalan Kaligawe Raya",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentist;physiotherapy",
+        "name": "RSI Sultan Agung Semarang",
+        "operator": "Government",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4616399,
+          -6.9550954
+        ]
+      },
+      "id": "node/10968096911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10968175931",
+        "addr:housenumber": "3",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "Klinik UIN WALISONGO",
+        "operator": "government",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3593703,
+          -6.9876412
+        ]
+      },
+      "id": "node/10968175931"
+    }
+  ]
+}

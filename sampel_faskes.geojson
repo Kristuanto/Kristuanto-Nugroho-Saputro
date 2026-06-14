@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "sampel_faskes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"id":"node/5461683958","addr:city":"Semarang","addr:full":"Jalan Brigjen Katamso","amenity":"clinic","healthcare":null,"name":"Klinik Bangkong","longitude":110.4327,"latitude":-6.99476,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.4327035,-6.9947557]}},
+{"type":"Feature","properties":{"id":"node/5460901213","addr:city":"Semarang","addr:full":"Jalan Dr Sutomo No 4","amenity":"clinic","healthcare":null,"name":"Klinik Pratama Yayasan Sosial Soegijapranata","longitude":110.40978,"latitude":-6.98604,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.4097841,-6.9860395]}},
+{"type":"Feature","properties":{"id":"node/5531799100","addr:city":"Semarang","addr:full":"Jalan Stadion Selatan No. 1","amenity":"clinic","healthcare":null,"name":"Klinik Pratama","longitude":110.43071,"latitude":-6.99104,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.4307079,-6.9910366]}},
+{"type":"Feature","properties":{"id":"node/5530557729","addr:city":"Semarang","addr:full":"Jalan Cipta Karya","amenity":"clinic","healthcare":null,"name":"Posyandu Sedap Malam RW 03","longitude":110.43075,"latitude":-6.99177,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.4307508,-6.991774]}},
+{"type":"Feature","properties":{"id":"node/5430983478","addr:city":"Semarang","addr:full":"Jalan Pandanaran No 79","amenity":"clinic","healthcare":null,"name":"Puskesmas Pandanaran","longitude":110.41467,"latitude":-6.98699,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.4146663,-6.9869932]}},
+{"type":"Feature","properties":{"id":"node/9822261131","addr:city":null,"addr:full":null,"amenity":"clinic","healthcare":"laboratory","name":"Laboratorium Klinik Pramita Semarang","longitude":110.42076,"latitude":-6.9856,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.4207556,-6.9856032]}},
+{"type":"Feature","properties":{"id":"node/5430545749","addr:city":"Semarang","addr:full":"Jalan Ligu Utara","amenity":"clinic","healthcare":null,"name":"Posyandu Bahagia","longitude":110.43288,"latitude":-6.98251,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.4328812,-6.9825052]}},
+{"type":"Feature","properties":{"id":"node/5481949597","addr:city":"Semarang","addr:full":"Jalan Bedagan 462","amenity":"clinic","healthcare":null,"name":"Posyandu Tunas Harapan II","longitude":110.41425,"latitude":-6.9803,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.4142546,-6.9803015]}},
+{"type":"Feature","properties":{"id":"node/5430545751","addr:city":"Semarang","addr:full":"Jalan Karang Kebon Utara","amenity":"clinic","healthcare":"clinic","name":"Posyandu Mekarsari","longitude":110.43294,"latitude":-6.97998,"akses_bus":"Mudah Diakses"},"geometry":{"type":"Point","coordinates":[110.432943600000016,-6.9799807]}}
+]
+}

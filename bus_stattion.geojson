@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-14T03:21:19Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843182370",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Shuttle Bus Joglosemar SPBU Pertamina Setia Budi Srondol Kulon 4450220",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4143576,
+          -7.0577954
+        ]
+      },
+      "id": "node/9843182370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843403087",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Halte Wahyu Utomo",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3449024,
+          -6.9980454
+        ]
+      },
+      "id": "node/9843403087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843418012",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Halte BRT Tentrem Mall",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4224187,
+          -6.9868057
+        ]
+      },
+      "id": "node/9843418012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843556215",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Halte BRT Java Supermall",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4321539,
+          -7.0077891
+        ]
+      },
+      "id": "node/9843556215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9843589226",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Halte Pasar Jrakah",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3598981,
+          -6.9875765
+        ]
+      },
+      "id": "node/9843589226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850710493",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Halte BRT Sriwijaya 1 Taman Singosari",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4241479,
+          -7.001182
+        ]
+      },
+      "id": "node/9850710493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12736375403",
+        "amenity": "bus_station",
+        "name": "Cititrans Shuttle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4195212,
+          -6.9897297
+        ]
+      },
+      "id": "node/12736375403"
+    }
+  ]
+}

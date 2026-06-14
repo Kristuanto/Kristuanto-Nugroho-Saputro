@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "reproject_bus_stationbus_stattion",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{"type":"Feature","properties":{"id":"node/9843182370","@id":"node/9843182370","amenity":"bus_station","bus":"yes","name":"Shuttle Bus Joglosemar SPBU Pertamina Setia Budi Srondol Kulon 4450220","public_transport":"station"},"geometry":{"type":"Point","coordinates":[435322.087125583260786,9219821.429532339796424]}},
+{"type":"Feature","properties":{"id":"node/9843403087","@id":"node/9843403087","amenity":"bus_station","bus":"yes","name":"Halte Wahyu Utomo","public_transport":"station"},"geometry":{"type":"Point","coordinates":[427641.956022138823755,9226416.808737544342875]}},
+{"type":"Feature","properties":{"id":"node/9843418012","@id":"node/9843418012","amenity":"bus_station","bus":"yes","name":"Halte BRT Tentrem Mall","public_transport":"station"},"geometry":{"type":"Point","coordinates":[436202.70623039174825,9227670.602063624188304]}},
+{"type":"Feature","properties":{"id":"node/9843556215","@id":"node/9843556215","amenity":"bus_station","bus":"yes","name":"Halte BRT Java Supermall","public_transport":"station"},"geometry":{"type":"Point","coordinates":[437280.852592681883834,9225352.156475339084864]}},
+{"type":"Feature","properties":{"id":"node/9843589226","@id":"node/9843589226","amenity":"bus_station","bus":"yes","name":"Halte Pasar Jrakah","public_transport":"station"},"geometry":{"type":"Point","coordinates":[429296.782512744190171,9227576.460624070838094]}},
+{"type":"Feature","properties":{"id":"node/9850710493","@id":"node/9850710493","amenity":"bus_station","bus":"yes","name":"Halte BRT Sriwijaya 1 Taman Singosari","public_transport":"station"},"geometry":{"type":"Point","coordinates":[436395.658052233979106,9226081.507812386378646]}},
+{"type":"Feature","properties":{"id":"node/12736375403","@id":"node/12736375403","amenity":"bus_station","bus":null,"name":"Cititrans Shuttle","public_transport":null},"geometry":{"type":"Point","coordinates":[435883.047898147022352,9227346.954497035592794]}}
+]
+}
